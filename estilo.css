@@ -17,18 +17,21 @@ body {
 
 /*conteudo*/
 
-.content {
-    width: 100%;
-    height: 80%;
-    background-color: #fd2be4;
+
+/*banner*/
+
+#textBanner {
+    font-family: Poppins;
 }
 
 
 /*navbar*/
 
 .navbar {
+    position: fixed;
     background-color: rgb(255, 104, 217);
     font-family: 'Nunito', sans-serif;
+    width: 100%;
 }
 
 .navbar .navbar-brand {
